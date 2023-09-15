@@ -6,7 +6,7 @@ This allows a user to make notes or code snippets to view later, with or without
 ## Links
 [HerokuLink](https://radiant-chamber-94857-9065de329216.herokuapp.com)
 
-![GitHubLink](git@github.com:mayaj0yce/PWA19.git)
+[GitHubLink](https://github.com/mayaj0yce/19pwaassignment.git)
 
 
 ## To Deploy
